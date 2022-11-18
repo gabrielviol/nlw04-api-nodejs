@@ -22,6 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Express](https://expressjs.com/pt-br/)
 - [Jest](https://jestjs.io/)
 - [SQL Editor Beekeeper Studio](https://www.beekeeperstudio.io/)
+- [Insomnia](https://insomnia.rest/)
 
 ## 💻 Projeto
 
@@ -35,5 +36,10 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 - Clone o repositório
 - Instale as dependências com `yarn`
 - Inicie o servidor com `yarn dev`
+- Para rodar testes de requisições:
+  - Criação de usuario `http://localhost:3333/users`
+  - Criação de pesquisa `http://localhost:3333/surveys`
+  - Envio de email `http://localhost:3333/sendMail`
+- Para executar o teste unitario `yarn test`
 
 A aplicação pode ser acessada em [`localhost:3333`](http://localhost:3333).
