@@ -42,4 +42,17 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
   - Envio de email `http://localhost:3333/sendMail`
 - Para executar o teste unitario `yarn test`
 
+## Prints
+
+- Criação de usuario
+
+- Criação de pesquisa
+
+- Envio de email
+
+- Email
+
+- Calculo e resultado do NPS
+
+
 A aplicação pode ser acessada em [`localhost:3333`](http://localhost:3333).
