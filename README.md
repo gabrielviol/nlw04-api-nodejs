@@ -4,6 +4,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-prints">Prints</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -42,17 +43,22 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
   - Envio de email `http://localhost:3333/sendMail`
 - Para executar o teste unitario `yarn test`
 
-## Prints
+## 📸 Prints
 
 - Criação de usuario
+<img alt="Happy" src=".github/createUser.png" width="80%">
 
 - Criação de pesquisa
+<img alt="Happy" src=".github/createSurvey.png" width="80%">
 
 - Envio de email
+<img alt="Happy" src=".github/sendEmail.png" width="80%">
 
 - Email
+<img alt="Happy" src=".github/email.png" width="80%">
 
 - Calculo e resultado do NPS
+<img alt="Happy" src=".github/calculateNps.png" width="80%">
 
 
 A aplicação pode ser acessada em [`localhost:3333`](http://localhost:3333).
